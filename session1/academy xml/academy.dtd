@@ -1,0 +1,11 @@
+<!ELEMENT academy (lesson+)>
+<!ELEMENT lesson (name,teacher,NumberOfStudents,cost,BeginDate,EndDate)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT NumberOfStudents (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT BeginDate (year,month,day)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT EndDate (year,month,day)>

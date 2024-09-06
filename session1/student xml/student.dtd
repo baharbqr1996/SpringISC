@@ -1,0 +1,12 @@
+<!ELEMENT student (name,family,DateOfBirth,AcademicInfo)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT family (#PCDATA)>
+<!ELEMENT DateOfBirth (year,month,day)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT AcademicInfo (school,field,section,grade)>
+<!ELEMENT school (#PCDATA)>
+<!ELEMENT field (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>

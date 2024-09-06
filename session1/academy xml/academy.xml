@@ -1,0 +1,53 @@
+<academy>
+   <lesson>
+      <name>painting</name>
+      <teacher>sima aliyari</teacher>
+      <NumberOfStudents>12</NumberOfStudents>
+      <cost>2000000</cost>
+      <BeginDate>
+         <year>1403</year>
+         <month>04</month>
+         <day>01</day>
+      </BeginDate>
+      <EndDate>
+         <year>1403</year>
+         <month>05</month>
+         <day>01</day>
+      </EndDate>
+   </lesson>
+   
+   <lesson>
+      <name>guitar</name>
+      <teacher>ali abbasi</teacher>
+      <NumberOfStudents>5</NumberOfStudents>
+      <cost>3000000</cost>
+      <BeginDate>
+         <year>1403</year>
+         <month>04</month>
+         <day>03</day>
+      </BeginDate>
+      <EndDate>
+         <year>1403</year>
+         <month>04</month>
+         <day>23</day>
+      </EndDate>
+   </lesson>
+   
+   
+   <lesson>
+      <name>english</name>
+      <teacher>mahroo adib</teacher>
+      <NumberOfStudents>10</NumberOfStudents>
+      <cost>2000000</cost>
+      <BeginDate>
+         <year>1403</year>
+         <month>03</month>
+         <day>01</day>
+      </BeginDate>
+      <EndDate>
+         <year>1403</year>
+         <month>04</month>
+         <day>01</day>
+      </EndDate>
+   </lesson>
+</academy>

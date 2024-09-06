@@ -1,0 +1,15 @@
+<student>
+   <name>bahareh</name>
+   <family>bagheri</family>
+   <DateOfBirth>
+      <year>1375</year>
+      <month>01</month>
+      <day>05</day>
+   </DateOfBirth>
+   <AcademicInfo>
+      <school>misagh</school>
+      <field>mathematics</field>
+      <section>highschool</section>
+      <grade>3</grade>
+   </AcademicInfo>
+</student>
