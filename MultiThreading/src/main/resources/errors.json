@@ -1,0 +1,1044 @@
+[ {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@42949e1e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 395439200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@42949e1e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 395439200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@7961828",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 413424100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@42949e1e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 395439200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@7961828",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 413424100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@775b648e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 434412100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@42949e1e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 395439200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@7961828",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 413424100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@775b648e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 434412100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@71c71553",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 454400900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@30bd97ca",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 30, 818273900 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@227fafb9",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 31, 225022400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@55b23b3d",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 343468400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@46ab1213",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 359457200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@486cf56e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 376447700 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@42949e1e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 395439200 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@7961828",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 413424100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@775b648e",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 434412100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@71c71553",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 454400900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@23a7232f",
+  "errorDate" : [ 2024, 10, 17, 2, 20, 37, 476384800 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@a1ef78e",
+  "errorDate" : [ 2024, 10, 17, 2, 31, 18, 447731600 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@a1ef78e",
+  "errorDate" : [ 2024, 10, 17, 2, 31, 18, 447731600 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@29743b8f",
+  "errorDate" : [ 2024, 10, 17, 2, 31, 18, 911618100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@bdf08f",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 102823100 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@bdf08f",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 102823100 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@45bf7efc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 116814000 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@bdf08f",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 102823100 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@45bf7efc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 116814000 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@720f1498",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 129300500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@bdf08f",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 102823100 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@45bf7efc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 116814000 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@720f1498",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 129300500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@10463ebd",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 153287300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@1e85b622",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 21, 642932000 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@11d4ef71",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 107646900 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2bbfe3fc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 137625300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@5d9fa165",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 156910200 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@3184595",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 22, 171996500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@2e0c9446",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 48471400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@48274c7",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 67459400 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@a459bff",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 86832500 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@bdf08f",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 102823100 ]
+}, {
+  "fileName" : "customers.csv",
+  "recordNumber" : 4,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Customer@45bf7efc",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 116814000 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@720f1498",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 129300500 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@10463ebd",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 153287300 ]
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 3,
+  "errorCode" : "VALIDATION_ERROR",
+  "errorClassificationName" : "Validation Error",
+  "errorDescription" : "Invalid data for entity: Spring.MultiThreading.model.Account@a0e29d3",
+  "errorDate" : [ 2024, 10, 17, 2, 36, 55, 175273100 ]
+} ]
